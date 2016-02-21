@@ -1,0 +1,29 @@
+{
+  "name": "grid-xl",
+  "homepage": "https://github.com/nanlabs/grid-xl",
+  "authors": [
+    "matiasalvarez87 <matiasalvarez87@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "twitter",
+    "bootstrap",
+    "sass",
+    "grid",
+    "big",
+    "screens"
+  ],
+  "license": "GNU",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.6"
+  }
+}
